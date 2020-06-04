@@ -7,3 +7,5 @@
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./algorithms/jewels_and_stones.py)| Easy
 |[1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Solution](./algorithms/greatest_number_of_candies.py)| Easy
 |[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](./algorithms/number_of_steps.py)| Easy
+|[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./algorithms/max_consecutive_ones.py)| Easy
+
